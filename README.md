@@ -104,6 +104,6 @@ Learn → Build → Break → Debug → Understand → Improve
 
 📫 Connect With Me
 💼 LinkedIn
-🐙 GitHub
+🐙 [GitHub](https://github.com/kb-z21)
 
 ⭐ Thanks for visiting my profile!
