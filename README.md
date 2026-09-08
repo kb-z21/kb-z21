@@ -17,9 +17,8 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 
 **Bachelor of Science in Computer Science**
 
-- ✅ 3rd Year — Completed
-- 🚀 4th Year — Starting Soon
-- 🎓 Final Year — Expected Graduation at the End of 4th Year
+
+- 🎓 Final Year 
 
 ---
 
