@@ -103,7 +103,7 @@ I believe in learning by building:
 Learn → Build → Break → Debug → Understand → Improve
 
 📫 Connect With Me
-💼 LinkedIn: Connect with me
-🐙 GitHub: @kb-z21
+💼 LinkedIn
+🐙 GitHub
 
 ⭐ Thanks for visiting my profile!
