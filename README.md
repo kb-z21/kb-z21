@@ -101,9 +101,15 @@ I believe in learning by building:
 
 ```text
 Learn → Build → Break → Debug → Understand → Improve
+```
 
-📫 Connect With Me
-💼 LinkedIn
-🐙 [GitHub](https://github.com/kb-z21)
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kibrom-zewdu-86835133a/)
+- 🐙 [GitHub](https://github.com/kb-z21)
+
+---
 
 ⭐ Thanks for visiting my profile!
