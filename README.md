@@ -111,7 +111,7 @@ Learn → Build → Break → Debug → Understand → Improve
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kb-z21)](https://github.com/kb-z21)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kb-z21)](https://github.com/kibrom-zewdu)
 
 ---
 
