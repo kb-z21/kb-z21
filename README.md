@@ -111,7 +111,7 @@ Learn → Build → Break → Debug → Understand → Improve
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://demolab.com)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kb-z21)](https://github.com/kb-z21)
 
 ---
 
