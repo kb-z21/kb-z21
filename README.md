@@ -108,9 +108,10 @@ Learn → Build → Break → Debug → Understand → Improve
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kibrom-zewdu-86835133a/)
 - 🐙 [GitHub](https://github.com/kb-z21)
-[![GitHub Streak](https://herokuapp.com)](https://git.io)
 
+### 📈 GitHub Stats
 
+[![GitHub Streak](https://demolab.com)](https://github.com)
 ---
 
 ⭐ Thanks for visiting my profile!
