@@ -2,8 +2,7 @@
 
 ### Computer Science Student · Full-Stack Developer · PKI & Cybersecurity · AI
 
-I'm a Computer Science student who has completed my **3rd year** and am
-preparing to begin my **4th and final year**.
+I'm a Computer Science student currently in my **4th and final year**.
 
 I'm interested in building practical software, understanding how systems
 work, and continuously improving my skills through hands-on learning.
@@ -17,8 +16,7 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 
 **Bachelor of Science in Computer Science**
 
-
-- 🎓 Final Year 
+- 🎓 Final Year
 
 ---
 
@@ -106,12 +104,14 @@ Learn → Build → Break → Debug → Understand → Improve
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kibrom-zewdu-86835133a/)
-- 🐙 [GitHub](https://github.com/kb-z21)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kibrom-zewdu-86835133/)
+- 🐙 [GitHub](https://github.com/kibrom-zewdu)
 
-### 📈 GitHub Stats
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kb-z21)](https://github.com/kibrom-zewdu)
+## 📈 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kibrom-zewdu)](https://github.com/kibrom-zewdu)
 
 ---
 
