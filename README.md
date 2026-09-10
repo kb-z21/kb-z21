@@ -109,12 +109,12 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 Building practical knowledge around:
 
 - Certificate Authorities
-- X.509 certificates
-- Digital signatures
-- Certificate lifecycle management
-- Cryptographic operations
-- HSM and PKCS#11
-- Secure application architecture
+- X.509 Certificates
+- Digital Signatures
+- Certificate Lifecycle Management
+- Cryptographic Operations
+- HSM & PKCS#11
+- Secure Application Architecture
 
 ### 💻 Full-Stack Development
 
@@ -159,3 +159,36 @@ I believe in learning by building:
 
 ```text
 Learn → Build → Break → Debug → Understand → Improve
+```
+
+---
+
+## 📌 Current Focus
+
+```text
+Full-Stack Development
+        +
+PKI & Cybersecurity
+        +
+Python & AI Engineering
+        +
+Software Architecture
+```
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kibrom_Zewdu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibrom-zewdu-86835133/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-kibrom--zewdu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kibrom-zewdu)
+
+---
+
+## 📈 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kibrom-zewdu)](https://github.com/kibrom-zewdu)
+
+---
+
+⭐ Thanks for visiting my profile!
