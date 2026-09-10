@@ -21,52 +21,52 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 
 ## 💻 Technologies & Skills
 
-### Languages
+### 🧑‍💻 Programming Languages
 
-[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Web Development
+### 🌐 Web Development
 
-[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-### Backend Development
+### ⚙️ Backend Development
 
-[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-[REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-[Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-[Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-[MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Security & PKI
+### 🔐 Security & PKI
 
-[PKI](https://img.shields.io/badge/PKI-003B5C?style=for-the-badge)
-[X.509](https://img.shields.io/badge/X.509-Cryptography?style=for-the-badge)
-[CSR](https://img.shields.io/badge/CSR-Certificate_Request?style=for-the-badge)
-[Digital Signatures](https://img.shields.io/badge/Digital_Signatures-Security?style=for-the-badge)
-[Cryptography](https://img.shields.io/badge/Cryptography-Security?style=for-the-badge)
-[OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![PKI](https://img.shields.io/badge/PKI-003B5C?style=for-the-badge)
+![X.509](https://img.shields.io/badge/X.509-Cryptography?style=for-the-badge)
+![CSR](https://img.shields.io/badge/CSR-Certificate_Request?style=for-the-badge)
+![Digital Signatures](https://img.shields.io/badge/Digital_Signatures-Security?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-Security?style=for-the-badge)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
-### Tools & Environment
+### 🛠️ Tools & Environment
 
-[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-[Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-[Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-[IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-[DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ---
 
@@ -102,6 +102,45 @@ Public Key Infrastructure (PKI), Python, and AI engineering**.
 
 ---
 
+## 🚀 Featured Areas
+
+### 🔐 PKI & Cybersecurity
+
+Building practical knowledge around:
+
+- Certificate Authorities
+- X.509 certificates
+- Digital signatures
+- Certificate lifecycle management
+- Cryptographic operations
+- HSM and PKCS#11
+- Secure application architecture
+
+### 💻 Full-Stack Development
+
+Working with:
+
+- Java
+- Spring Boot
+- REST APIs
+- Vue.js
+- MariaDB
+- SQL
+- Git & GitHub
+
+### 🤖 AI Engineering
+
+Developing skills in:
+
+- Python
+- NumPy
+- Pandas
+- Machine Learning
+- Deep Learning
+- AI Engineering
+
+---
+
 ## 🎯 Goals
 
 - 🎓 Complete my Computer Science degree
@@ -120,21 +159,3 @@ I believe in learning by building:
 
 ```text
 Learn → Build → Break → Debug → Understand → Improve
-```
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kibrom-zewdu-86835133/)
-- 🐙 [GitHub](https://github.com/kibrom-zewdu)
-
----
-
-## 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kibrom-zewdu)](https://github.com/kibrom-zewdu)
-
----
-
-⭐ Thanks for visiting my profile!
